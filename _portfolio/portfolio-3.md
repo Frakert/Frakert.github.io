@@ -1,6 +1,6 @@
 ---
 title: "NSGP - Non-Stationairy Gaussian Process Regression"
-excerpt: "A Python implementation of NSGP <br/><img src='/images/500x300.png'>"
+excerpt: "A Python implementation of NSGP <br/><img src='/images/GP_vs_NSGP.png'>"
 collection: portfolio
 ---
 
