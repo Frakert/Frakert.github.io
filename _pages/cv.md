@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF version of my CV](/files/cv.pdf)
+
+
 Education
 ======
 * MSc in Artificial Intelligence & Engineering Systems - Science & Discovery, TU/e, 2023-2026
