@@ -5,7 +5,7 @@ category: not-publshied
 permalink: /publication/NSGP
 excerpt: 'This (non-published) paper was written for team internship and explores how adaptive learning can be used to reduce the need for data in reduced order moddeling approaches for FEM simulations. The result is a python package for non-stationairy Gaussian Process Regression (NSGPR) and a method which needs a third of the data to gain the same accuracy.'
 date: 2025-06-16
-paperurl: 'https://academicpages.github.io/files/ROM_NSGP_Paper.pdf'
+paperurl: 'https://Frakert.github.io/files/ROM_NSGP_Paper.pdf'
 ---
 
 *Note that this paper was never published, but made for educational purposes. I do however believe it to be of sufficient quality to present it.*
