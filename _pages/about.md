@@ -28,11 +28,13 @@ I aim to expand research and applications in this direction.
 
 Other (Work/Research) Interests
 =========
-Though Physics-Informed Machine Learning holds my current interest, there are other fields I also quite like.
+Though Physics-Informed Machine Learning holds my current interest, there are other related topics I also quite like.
 These inlcude
-- Bayesian Machine Learning
-- 
+- Bayesian Machine Learning & Active Learning
+- Predictive Maintenance & Digital Twinning
+- Reinforcment Learning
 
+As you may notice, these all remain in the field of ML/Data Science or engineering.
 <!-- More about me
 ======
 bah bah bah
