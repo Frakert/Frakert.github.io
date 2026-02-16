@@ -1,0 +1,13 @@
+---
+title: "Predictive Maintenance in Membrane pumps"
+excerpt: "BSc Thesis Predictive Maintenance <br/><img src='/images/PdM_pump.png'>"
+collection: portfolio
+---
+
+During my graduation internship I made a pilot for a Predictive maintenance system using production data implemented with Python. In this project I got the chance to combine my technical knowledge with data science and machine learning. My system was able to accurately predict failures of equipment before they happened, saving a predicted 150 hours production loss yearly.
+
+The data I worked with was timeseries factory measuremnt data where everything was logged in company systems. I build a workflow to extract all data automatically and format it into a MS Lakehouse.
+
+From there three approaches was tested. An Auto-encoder for anamolous behaviour, an aggregation classifier and a bare NN. In the end, extracting features from the timeseries using TSfresh and then learning from those features ended up being the most reliable and interpertable approach.
+
+I got rewarded with an average grade of 9 for this graduation internship, and with that got my Bachelor of Science.
