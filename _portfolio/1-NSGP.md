@@ -5,6 +5,8 @@ permalink: https://github.com/Frakert/NSGPR/tree/main
 collection: portfolio
 ---
 
+![GP vs NSGP](/images/GP_vs_NSGP.png)
+
 A Python implementation for Non-Stationairy Gaussian Process Regression.
 GPR is a often used Bayesian regression approach, well known for the fact that it gives uncertainty with its predictions. 
 

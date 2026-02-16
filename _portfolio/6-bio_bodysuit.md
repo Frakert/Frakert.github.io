@@ -4,6 +4,8 @@ excerpt: "BSc Thesis Predictive Maintenance <br/><img src='/images/body_suit.png
 collection: portfolio
 ---
 
+![A photo of my younger years](/images/body_suit.png)
+
 This project involved the development of a wearable biometric bodysuit during an internship at VI Technologies, utilizing the National Instruments myRIO as the central processing unit. The primary objective was to create a mobile system capable of real-time monitoring of both body movement and vital signs, including heart rate and blood oxygen levels.
 
 The system integrated three types of I2C sensors to capture a wide range of data: an oximeter for heart rate and blood pressure, an AHT20 for temperature and humidity, and three ICM20 Inertial Measurement Units (IMUs) for tracking acceleration and orientation. To overcome the hardware limitation of having three IMU sensors with only two unique addresses, the architecture was designed to split the sensors across two separate I2C buses.

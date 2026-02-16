@@ -4,6 +4,8 @@ excerpt: "Optimizing team assignment <br/><img src='/images/Team_Allocation.png'
 collection: portfolio
 ---
 
+![Image generated using NanoBanana.](/images/Team_Allocation.png)
+
 For the AI&ES Master, the team internship had some difficult team formation requirements. Teams needed to consist of 3 or 4 students. A team could have no more than 2 students of the same nationality and no more than 2 students with the same bachelor’s background. All students needed to have a common timeslot, and student preferences needed to be taken into account.
 
 Given all of these constraints, it was very difficult to find an optimal solution for 55 students and 17 projects.

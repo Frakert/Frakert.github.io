@@ -3,6 +3,7 @@ title: "Predictive Maintenance in Membrane pumps"
 excerpt: "BSc Thesis Predictive Maintenance <br/><img src='/images/PdM_pump.png'>"
 collection: portfolio
 ---
+![Artistic representation](/images/PdM_pump.png)
 
 During my graduation internship I made a pilot for a Predictive maintenance system using production data implemented with Python. In this project I got the chance to combine my technical knowledge with data science and machine learning. My system was able to accurately predict failures of equipment before they happened, saving a predicted 150 hours production loss yearly.
 
