@@ -1,6 +1,6 @@
 ---
 title: "NSGP - Non-Stationairy Gaussian Process Regression"
-excerpt: "A Python implementation of NSGP <br/><img src='/images/GP_vs_NSGP.png'>"
+excerpt: "A Python implementation of Non stationary Gaussian Process Regression <br/><img src='/images/GP_vs_NSGP.png'>"
 permalink: https://github.com/Frakert/NSGPR/tree/main 
 collection: portfolio
 ---

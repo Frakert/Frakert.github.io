@@ -1,6 +1,6 @@
 ---
 title: "Reinforcement Learning on bluf poker"
-excerpt: "Teaching an agent to play dice. <br/><img src='/images/bluff_poker.png'>"
+excerpt: "Teaching an agent to play dice. Reinforcment learning for a simple dice game. <br/><img src='/images/bluff_poker.png'>"
 collection: portfolio
 ---
 

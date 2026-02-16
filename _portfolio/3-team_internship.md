@@ -1,6 +1,6 @@
 ---
 title: "Constraint Optimisation - Team assignment"
-excerpt: "Optimizing team assignment <br/><img src='/images/Team_Allocation.png'>"
+excerpt: "Optimizing team assignment. Constraint optimisation tool to find the optimal solution in a many-constraint system. <br/><img src='/images/Team_Allocation.png'>"
 collection: portfolio
 ---
 

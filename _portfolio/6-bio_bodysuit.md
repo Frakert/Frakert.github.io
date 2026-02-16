@@ -1,6 +1,6 @@
 ---
 title: "MyRIO Biometric Bodysuit"
-excerpt: "BSc Thesis Predictive Maintenance <br/><img src='/images/body_suit.png'>"
+excerpt: "Internship at VI Technologies to build a LabVIEW based biometric bodysuit. <br/><img src='/images/body_suit.png'>"
 collection: portfolio
 ---
 
@@ -16,4 +16,5 @@ The hardware development focused on portability and durability. Custom 3D-printe
 
 
 (VI Tech blog post)[https://www.vi-tech.nl/en/blogs/myrio-based-biometric-bodysuit]
+
 (YouTube video demo)[https://www.youtube.com/watch?v=qjQ_R46VZ4M]

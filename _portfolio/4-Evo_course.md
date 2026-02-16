@@ -1,6 +1,6 @@
 ---
 title: "Genetic Neural Networks for Coarse Scale FEM Correction"
-excerpt: "BSc Thesis Predictive Maintenance <br/><img src='/images/multi_scale.jpg'>"
+excerpt: "Genetic Neural Networks applied to 1D Advection-Diffusion physics for course scale correction. <br/><img src='/images/multi_scale.jpg'>"
 collection: portfolio
 ---
 
