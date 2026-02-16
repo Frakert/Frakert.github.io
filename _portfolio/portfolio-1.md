@@ -1,13 +1,13 @@
 ---
 title: "Constraint Optimisation - Team assignment"
-excerpt: "Optimizing team assignment <br/><img src='/images/500x300.png'>"
+excerpt: "Optimizing team assignment <br/><img src='/images/Team_Allocation.png'>"
 collection: portfolio
 ---
 
-For the AI&ES Master, the team internship had some difficult team formation requirements. Teams needed to be 3 or 4 students, a team could have no more than 2 of the same nationality, a team could have no more than 2 of the same bachelor background, all students needed to have a common timeslot and student preference needed to be taken into account.
+For the AI&ES Master, the team internship had some difficult team formation requirements. Teams needed to consist of 3 or 4 students. A team could have no more than 2 students of the same nationality and no more than 2 students with the same bachelor’s background. All students needed to have a common timeslot, and student preferences needed to be taken into account.
 
-Given all of these constraints, it was very diffucult to find an optimal solution for 55 students and 17 projects.
+Given all of these constraints, it was very difficult to find an optimal solution for 55 students and 17 projects.
 
-Using Google's Operation Research Tools (ORTools), I used constraint programming techniques to find an optimum solution given these constraints. The tool could give a cost to breaking any constraint, such that even in situations where optimal solution didnt excist the best closest solution could be found.
+Using Google's Operations Research Tools (OR-Tools), I applied constraint programming techniques to find an optimal solution given these constraints. The tool could assign a cost to breaking any constraint, such that even in situations where an optimal solution didn’t exist, the closest best solution could be found.
 
-This tool was then used and ran in real time, ensuring student walked out of the room with their assigned team and a fair assignment.
+This tool was then used and run in real time, ensuring students walked out of the room with their assigned team and a fair assignment.
